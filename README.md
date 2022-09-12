@@ -1,2 +1,2 @@
-# oop_hw_python
+# simple tracker for count calories
 base fitness tracker
